@@ -1,8 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import Header from './Header.js';
-import Bline from './Bline.js'
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
